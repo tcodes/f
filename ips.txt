@@ -1,0 +1,9 @@
+0.0.0.0 asia.csoversea.mbgame.anticheatexpert.com
+0.0.0.0 *.csoversea.mbgame.anticheatexpert.com
+0.0.0.0 csoversea.mbgame.anticheatexpert.com
+0.0.0.0 down.anticheatexpert.com
+0.0.0.0 a23-193-106-142.deploy.static.akamaitechnologies.com
+0.0.0.0 static.akamaitechnologies.com
+0.0.0.0 *.static.akamaitechnologies.com
+0.0.0.0 Down.anticheatexpert.com
+0.0.0.0 a184-27-122-192.deploy.static.akamaitechnologies.com 
