@@ -6,4 +6,7 @@
 0.0.0.0 static.akamaitechnologies.com
 0.0.0.0 *.static.akamaitechnologies.com
 0.0.0.0 Down.anticheatexpert.com
-0.0.0.0 a184-27-122-192.deploy.static.akamaitechnologies.com 
+0.0.0.0 a184-27-122-192.deploy.static.akamaitechnologies.com
+0.0.0.0 *.deploy.static.akamaitechnologies.com
+0.0.0.0 *.akamaitechnologies.com
+0.0.0.0 phayul.com
